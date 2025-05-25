@@ -76,19 +76,6 @@ const Experience = () => {
           </Card>
         ))}
       </div>
-
-      <div className="mt-12 text-center">
-        <Card className="bg-gradient-to-r from-blue-600/10 to-purple-600/10 border-blue-600/30 max-w-2xl mx-auto">
-          <CardContent className="pt-6">
-            <h3 className="text-xl font-semibold text-white mb-2">Looking Forward</h3>
-            <p className="text-gray-300">
-              As a beginner in web development, I'm actively seeking opportunities to apply my skills, 
-              learn from experienced developers, and contribute to meaningful projects. 
-              I'm open to internships, entry-level positions, and collaborative projects.
-            </p>
-          </CardContent>
-        </Card>
-      </div>
     </div>
   );
 };

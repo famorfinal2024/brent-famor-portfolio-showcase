@@ -117,19 +117,6 @@ const Contact = () => {
             </CardContent>
           </Card>
         </div>
-
-        {/* Footer Message */}
-        <div className="mt-12 text-center">
-          <Card className="bg-gradient-to-r from-blue-600/10 to-purple-600/10 border-blue-600/30">
-            <CardContent className="pt-6">
-              <h3 className="text-xl font-semibold text-white mb-2">Thank You!</h3>
-              <p className="text-gray-300">
-                Thank you for taking the time to learn about me and my journey in web development. 
-                I'm excited about the possibilities ahead and look forward to connecting with you!
-              </p>
-            </CardContent>
-          </Card>
-        </div>
       </div>
     </div>
   );
