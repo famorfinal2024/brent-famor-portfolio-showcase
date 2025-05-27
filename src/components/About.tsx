@@ -56,7 +56,7 @@ const About = () => {
               <h4 className="font-semibold text-white mb-2">Parents</h4>
               <div className="space-y-1">
                 <p className="text-gray-300">Father: Filver A. Famor</p>
-                <p className="text-gray-300">Mother: Analyn A. FAmor</p>
+                <p className="text-gray-300">Mother: Analyn A. Famor</p>
               </div>
             </div>
             <div>
