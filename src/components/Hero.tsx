@@ -13,14 +13,14 @@ const Hero = () => {
         <div className="mb-8 relative">
           <img
             src="/lovable-uploads/07942644-24b1-4d72-a10e-651d5f18e6c3.png"
-            alt="Brent John Famor"
+            alt="Brent Jhon Famor"
             className="w-32 h-32 md:w-48 md:h-48 rounded-full mx-auto mb-6 border-4 border-blue-400 shadow-2xl object-cover hover:scale-105 transition-transform duration-300"
           />
           <div className="absolute inset-0 rounded-full bg-blue-400/20 w-32 h-32 md:w-48 md:h-48 mx-auto animate-pulse"></div>
         </div>
         
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-4 bg-gradient-to-r from-blue-400 via-purple-400 to-blue-600 bg-clip-text text-transparent">
-          Brent John Famor
+          Brent Jhon Famor
         </h1>
         
         <p className="text-xl md:text-2xl text-gray-300 mb-6">
