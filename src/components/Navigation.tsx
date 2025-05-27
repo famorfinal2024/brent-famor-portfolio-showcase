@@ -30,7 +30,7 @@ const Navigation = ({ activeSection, setActiveSection }: NavigationProps) => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-gray-900/95 backdrop-blur-sm border-b border-gray-700">
       <div className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
-          <div className="text-2xl font-bold text-blue-400">BF</div>
+          <div className="text-2xl font-bold text-blue-400">Portfolio</div>
           
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8">
