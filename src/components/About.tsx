@@ -26,7 +26,7 @@ const About = () => {
           <CardContent className="space-y-4">
             <div className="flex items-center gap-3">
               <Calendar className="h-4 w-4 text-gray-400" />
-              <span className="text-gray-300">21 years old (May 19, 2004)</span>
+              <span className="text-gray-300">20 years old (January 15, 2005)</span>
             </div>
             <div className="flex items-center gap-3">
               <MapPin className="h-4 w-4 text-gray-400" />
@@ -55,15 +55,17 @@ const About = () => {
             <div>
               <h4 className="font-semibold text-white mb-2">Parents</h4>
               <div className="space-y-1">
-                <p className="text-gray-300">Father: Berto Famor</p>
-                <p className="text-gray-300">Mother: Brenda Famor</p>
+                <p className="text-gray-300">Father: Filver A. Famor</p>
+                <p className="text-gray-300">Mother: Analyn A. FAmor</p>
               </div>
             </div>
             <div>
               <h4 className="font-semibold text-white mb-2">Siblings</h4>
               <div className="space-y-1">
-                <p className="text-gray-300">Ashley Famor</p>
-                <p className="text-gray-300">Mark Famor</p>
+                <p className="text-gray-300">Dave A. Famor</p>
+                <p className="text-gray-300">Chad A. Famor</p>
+                 <p className="text-gray-300">Christine Ann Alicaba</p>
+                 <p className="text-gray-300">Glem A. Famor</p>
               </div>
             </div>
             <div className="mt-4 p-3 bg-gray-700/50 rounded-lg">
